@@ -1,7 +1,7 @@
 # CPW218_Cpp
 CPW218 C++ Programming<br>
 Instructor: Ken Meerdink<br>
-Simmer 2020<br>
+Summer 2020<br>
 <br>
 Clover Park Technical College<br>
 Lakewood Campus<br>
